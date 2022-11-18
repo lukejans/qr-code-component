@@ -3,7 +3,7 @@
 ### Links
 
 - Solution URL: [repo](https://github.com/lukejans/qr-code-component)
-- Live Site URL: [github pages]()
+- Live Site URL: [github pages](https://lukejans.github.io/qr-code-component/)
 
 ## Author
 

@@ -37,7 +37,7 @@ body {
 .txt {
   color: hsl(220, 15%, 55%);
   font-size: 1rem;
-  margin: 0 3rem 2.5rem 3rem;
+  margin: 0.25rem 3rem 2.5rem 3rem;
 }
 
 .title,
