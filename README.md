@@ -2,8 +2,8 @@
 
 ### Links
 
-- Solution URL: [repo](https://github.com/lukejans/product-preview-card-component)
-- Live Site URL: [github pages](https://lukejans.github.io/product-preview-card-component/)
+- Solution URL: [repo](https://github.com/lukejans/qr-code-component)
+- Live Site URL: [github pages]()
 
 ## Author
 
